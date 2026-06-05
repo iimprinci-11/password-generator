@@ -17,4 +17,4 @@ https://iimprinci-11.github.io/password-generator/
 - JavaScript
 
 ## Author
-Sanjana
+Princi Kumari
